@@ -1,4 +1,4 @@
-# Project Name
+# Star Shooter
 
 Context and date
 
@@ -12,4 +12,4 @@ Which features you included
 ## Future Development
 
 ## Created by
-Jason Francis
+Donovan Eidenback
